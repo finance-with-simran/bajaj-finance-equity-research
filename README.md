@@ -20,7 +20,7 @@ Financial data sourced from [Screener.in](https://www.screener.in)
 - Microsoft Excel (multi-tab financial modeling, formulas, formatting)
 
 ## Files
-- `Bajaj_Finance_Analysis.xlsx` – Full workbook with financial data, segment analysis, and investment thesis
+- `Bajaj Finance Project.xlsx` – Full workbook with financial data, segment analysis, and investment thesis
 
 ## Key Takeaways
 - Bajaj Finance has shown consistent AUM growth over the 10-year period, driven by diversification across consumer, SME, and commercial lending segments
@@ -29,4 +29,4 @@ Financial data sourced from [Screener.in](https://www.screener.in)
 - Overall, the analysis supports a positive long-term investment outlook, supported by strong fundamentals and consistent growth in core lending segments
 
 ---
-**Author:** Simran | BBA Honours, Finance
+**Author:** Simran | BBA Honours
